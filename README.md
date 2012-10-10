@@ -2,11 +2,12 @@
 
 ## Installation
 
-To install the IRI python module run:
+To install the IRI python module, from this repository run:
 
     cd iri
     make clean
     make
+    cd ..
     sudo python setup.py install
 
 ## Use
