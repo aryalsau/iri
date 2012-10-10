@@ -11,6 +11,6 @@ To install the IRI python module run:
 
 ## Use
 
-To use this module, simply follow the example provided in the tsygTrace object docstring.
+To use this module:
 
     import iri
